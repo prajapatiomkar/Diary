@@ -1,2 +1,2 @@
 # Diary
-*Your notes, organized and always with you.*
+Your notes, organized and always with you.
